@@ -53,7 +53,22 @@ err = bpf_set_link_xdp_fd(devindex, prog_fd, xdp_flags);
 - `bpf_program`：一个SEC，通过`bpf_object__find_program_by_title(...)`获取，并通过`bpf_program__fd`获取对应句柄
 - `bpf_map`：bpf map
 
+不同于basic01:
+
+这一章主要练习使用`test_env.sh`创建虚拟设备和ns，随后挂载不同的sec来实现一份bpf代码不同作用:
+
+1. `bpf_object__find_program_by_title`在load的elf对象`bpf_object`中找到`bpf_program`和其`prog_fd`
+2. 不同于basic01,通过`xdp_link_attach(dev,prog_fd...)`加载的fd是通过step获取的(而basic01的`prog_fd`则是通过`load_bpf_object_file__simple()`返回的默认的第一个`sec`)
 
 
-todo: assignment阅读 https://github.com/xdp-project/xdp-tutorial/tree/master/basic02-prog-by-name
+
+同时学习了:
+
++ 使用ip的基本命令 [link](./zt_1_ip.html) ，例如``ip netns ls`` `ip netns exec $nsname $command`
+
++ tcpdump基本使用`tcpdump -i`
+
++ perf监听abort事件`perf record -a -e xdp:xdp_exception sleep 4`  并`perf script`
+
+  
 
