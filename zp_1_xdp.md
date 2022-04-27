@@ -57,4 +57,3 @@ err = bpf_set_link_xdp_fd(devindex, prog_fd, xdp_flags);
 
 todo: assignment阅读 https://github.com/xdp-project/xdp-tutorial/tree/master/basic02-prog-by-name
 
-todo：ELF文件
