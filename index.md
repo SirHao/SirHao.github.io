@@ -2,22 +2,14 @@
 layout: default
 ---
 
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>lucashliu</h1>
-      <p><b>学历：硕士研究生</b></p>
-      <p><b>学校：天津大学智算学部</b></p>
-      <p><b>方向：数据中心网络、容器网络</b></p>
-      <p><b>邮箱：lucashliu AT tju DOT edu DOT cn</b></p>
-      <p><b>实习经历1：2019.6-2019.8 腾讯TAPD后端</b></p>
-      <p><b>实习经历2：2020.7-2021.1 字节极课后端</b></p>
-    </td>
-    <td width="25%">
-      <img src="/fig/index/aa.png" width="100%"> 
-    </td>
-  </tr>
-</table>
+## Personal Info
++ **基本信息**：lucashliu  (天津大学智算学部-  硕士研究生-  2021-2024)
++ **研究方向**：数据中心网络、容器网络
++ **实习经历**：
+  + 2019.6-2019.8 腾讯TAPD后端
+  + 2020.7-2021.1 字节极课后端
+
++ **联系我**：lucashliu AT tju DOT edu DOT cn
 
 ## BLOG
 
@@ -37,7 +29,7 @@ layout: default
 
 `2022-11-18` [RCU](https://note.youdao.com/s/OSh9iE6h)   RCU的基本使用与思考
 
-`2022-11-14` [block device driver：1](https://note.youdao.com/s/XbmeobJS)   分析Semeru(OSDI 20)源码中实现块设备驱动的testcase
+`2022-11-14` [block device driver:1](https://note.youdao.com/s/XbmeobJS)   分析Semeru(OSDI 20)源码中实现块设备驱动的testcase
 
 
 
@@ -59,9 +51,9 @@ layout: default
 
 `2022-04-09`  [Qdisc](https://note.youdao.com/s/XQNOuATW)  [TC](https://note.youdao.com/s/WXRLLeNk)
 
-``2022-04-26`` [IP命令示例](./zt_1_ip.md)
+``2022-04-26``  [IP命令示例](./zt_1_ip.md)
 
-`2022-11-16` [RDMA网卡查看](https://note.youdao.com/s/aC9L1GBd) 一次因为不知道网卡型号引发的愚蠢的查找经历
+`2022-11-16`  [RDMA网卡查看](https://note.youdao.com/s/aC9L1GBd) 一次因为不知道网卡型号引发的愚蠢的查找经历
 
 
 
