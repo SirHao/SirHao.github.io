@@ -20,9 +20,9 @@ layout: default
 
 ### 1. XDP/eBPF
 
-`2022-04-25`  [XDP1](./workspace/zp_1_xdp.html).
+`2022-04-25`  [XDP1](./zp_1_xdp.html).
 
-`2022-04-27`  [XDP2](./workspace/zp_2_xdp.html).
+`2022-04-27`  [XDP2](./zp_2_xdp.html).
 
 `2022-11-11`  [XDP3](https://note.youdao.com/s/K7H5TCsS)    使用AF_XDP在用户态轮询获取、处理、发送数据包实现userspace auto echo
 
@@ -56,7 +56,7 @@ layout: default
 
 `2022-04-09`  [Qdisc](https://note.youdao.com/s/XQNOuATW)  [TC](https://note.youdao.com/s/WXRLLeNk)
 
-``2022-04-26`` [IP命令示例](./workspace/zt_1_ip.md)
+``2022-04-26`` [IP命令示例](./zt_1_ip.md)
 
 `2022-11-16` [RDMA网卡查看](https://note.youdao.com/s/aC9L1GBd) 一次因为不知道网卡型号引发的愚蠢的查找经历
 
