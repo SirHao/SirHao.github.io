@@ -16,14 +16,21 @@ layout: default
     </td>
   </tr>
 </table>
-
 ## BLOG
 
-`2022-04-25`   [XDP1](./zp_1_xdp.html).
+### 1. XDP/eBPF
 
-`2022-04-27`[XDP2](./zp_2_xdp.html).
+`2022-04-25`   [XDP1](./workspace/zp_1_xdp.html).
+
+`2022-04-27 `   [XDP2](./workspace/zp_2_xdp.html).
+
+### 2. Kernel 
+
+`20222-11-18` [RCU](https://note.youdao.com/s/OSh9iE6h)
+
+### 3. GO-dev
 
 ## Tool
 
-``2022-04-26`` [IP命令示例](zt_1_ip.md)
+``2022-04-26`` [IP命令示例](./workspace/zt_1_ip.md)
 
