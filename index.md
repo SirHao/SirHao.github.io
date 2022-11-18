@@ -9,13 +9,16 @@ layout: default
       <p><b>学历：硕士研究生</b></p>
       <p><b>学校：天津大学智算学部</b></p>
       <p><b>方向：数据中心网络、容器网络</b></p>
-      <p><b>邮箱：2775153204@qq.com</b></p>
+      <p><b>邮箱：lucashliu AT tju DOT edu DOT cn</b></p>
+      <p><b>实习经历1：2019.6-2019.8 腾讯TAPD后端</b></p>
+      <p><b>实习经历2：2020.7-2021.1 字节极课后端</b></p>
     </td>
     <td width="25%">
       <img src="/fig/index/aa.png" width="100%"> 
     </td>
   </tr>
 </table>
+
 ## BLOG
 
 ### 1. XDP/eBPF
