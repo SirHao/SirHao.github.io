@@ -31,11 +31,13 @@ layout: default
 
 `2022-11-14` [block device driver:1](https://note.youdao.com/s/XbmeobJS)   分析Semeru(OSDI 20)源码中实现块设备驱动的testcase
 
+`2022-11-20` [软中断 & waitqueue & completion & workqueue](https://note.youdao.com/s/Gro9UOoA)  几个主流的延迟操作(还差一个new feature: Threaded IRQ)
+
 
 
 ### 3. GO & Dev
 
-`2022-11-10` [GO JWT](https://note.youdao.com/s/Q8fVpGHg)  Hertz JWT 鉴权分析与实践
+`2022-11-10` [JWT GO web](https://note.youdao.com/s/Q8fVpGHg)  Hertz JWT 鉴权分析与实践
 
 `2022-11-12` [GO逃逸分析](https://note.youdao.com/s/TOMh2MgU)   内存逃逸分析
 
