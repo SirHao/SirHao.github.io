@@ -23,6 +23,8 @@ layout: default
 
 `2022-11-16`  [eBPF](https://note.youdao.com/s/LIK6OcFF)     使用eBPF attach到Tracepoint，获取入口参数并处理
 
+`2022-11-28`  [XDP driver support](https://note.youdao.com/s/Pi9LCcFN)   driver必须自己手动支持XDP
+
 
 
 ### 2. Kernel 
