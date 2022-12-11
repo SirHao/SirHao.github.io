@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Personal Info
-+ **基本信息**：lucashliu  (天津大学智算学部-  硕士研究生-  2021-2024)
++ **基本信息**：lucashliu  (天津大学智算学部- 硕士研究生-  2021-2024)
 + **研究方向**：数据中心网络、容器网络
 + **实习经历**：
   + 2019.6-2019.8 腾讯TAPD后端
@@ -37,6 +37,8 @@ layout: default
 
 `2022-11-22` [Threaded IRQ & workqueue](https://note.youdao.com/s/9VZ6L4K) threaded IRQ:补上了前天的坑
 
+`2022-12-11` [eBPF & 调度与上下文切换关系](https://note.youdao.com/s/FiIFMFqQ) 由一个eBPF测上下文切换开销引发的拓展阅读
+
 
 
 ### 3. GO & Dev
@@ -48,6 +50,12 @@ layout: default
 `2022-11-13` [GO map](https://note.youdao.com/s/MPSsj3qm)   Go map的基本分析
 
 `2022-11-17` [Web3登录流程](https://note.youdao.com/s/OYAVJcfu)  基于MetaMask web3的登录流程分析
+
+
+
+### 4. C++
+
+`2022-12-05` [C++杂记 1](https://note.youdao.com/s/IsS4yh8g) lambda函数、虚函数、Template、内存申请、noexcept、::、decltype...
 
 
 
