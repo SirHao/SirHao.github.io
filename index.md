@@ -51,6 +51,8 @@ layout: default
 
 `2022-11-17` [Web3登录流程](https://note.youdao.com/s/OYAVJcfu)  基于MetaMask web3的登录流程分析
 
+`2022-12-15` [ACID & 锁](https://note.youdao.com/s/4ot7WMM1)  MIT6.830 lab4所需理论基础： 二阶锁，意向锁(含兼容矩阵)，锁升级
+
 
 
 ### 4. C++
