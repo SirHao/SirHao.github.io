@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Personal Info
-+ **基本信息**：lucashliu  (天津大学智算学部- 硕士研究生-  2021-2024)
++ **基本信息**：lucashliu  (天津大学智算学部- 硕士研究生-  2021.9-2024.1)
 + **研究方向**：数据中心网络、容器网络
 + **实习经历**：
   + 2019.6-2019.8 腾讯TAPD后端
@@ -41,7 +41,7 @@ layout: default
 
 
 
-### 3. GO & Dev
+### 3. GO &  C++ & Dev
 
 `2022-11-10` [JWT GO web](https://note.youdao.com/s/Q8fVpGHg)  Hertz JWT 鉴权分析与实践
 
@@ -51,15 +51,19 @@ layout: default
 
 `2022-11-17` [Web3登录流程](https://note.youdao.com/s/OYAVJcfu)  基于MetaMask web3的登录流程分析
 
-`2022-12-15` [ACID & 锁](https://note.youdao.com/s/4ot7WMM1)  MIT6.830 lab4所需理论基础： 二阶锁，意向锁(含兼容矩阵)，锁升级
-
-
-
-### 4. C++
-
 `2022-12-05` [C++杂记 1](https://note.youdao.com/s/IsS4yh8g) lambda函数、虚函数、Template、内存申请、noexcept、::、decltype...
 
+`2022-12-15` [ACID & 锁](https://note.youdao.com/s/4ot7WMM1)  MIT6.830 lab4所需理论基础： 二阶锁，意向锁(含兼容矩阵)，锁升级
 
+`2022-12-21` [C++杂记 2](https://note.youdao.com/s/9TXIcDZI) 字符串优化：string_view ,  Small String Optimization(SSO)
+
+`2022-12-25` [C++杂记 3](https://note.youdao.com/s/JsshQciT) C++利用static实现的单例模式
+
+
+
+### 4. 科研
+
+`2023-1-5` [资源分解现有工作](https://note.youdao.com/s/ZZMjRdHY)  简单总结
 
 
 
