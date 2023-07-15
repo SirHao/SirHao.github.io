@@ -25,6 +25,8 @@ layout: default
 
 `2022-11-28`  [XDP driver support](https://note.youdao.com/s/Pi9LCcFN)   driver必须自己手动支持XDP
 
+`2023-02-01` [XDP的一些操作总结](https://note.youdao.com/s/3U1bFUvh)  包头解析，内容修改，resize，几种转发方法
+
 
 
 ### 2. Kernel 
@@ -41,7 +43,7 @@ layout: default
 
 
 
-### 3. GO &  C++ & Dev
+### 3. Dev
 
 `2022-11-10` [JWT GO web](https://note.youdao.com/s/Q8fVpGHg)  Hertz JWT 鉴权分析与实践
 
@@ -61,9 +63,11 @@ layout: default
 
 
 
-### 4. 科研
+### 4. 其他
 
 `2023-1-5` [资源分解现有工作](https://note.youdao.com/s/ZZMjRdHY)  简单总结
+
+``2023-3-13`` [DPDK1:瓶颈与高性能缓存](https://note.youdao.com/s/QViw70mM)
 
 
 
