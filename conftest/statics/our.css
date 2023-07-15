@@ -1,0 +1,198 @@
+.track {
+	font-style: italic;
+	margin-top: 4px;
+	margin-bottom: 10px;
+}
+
+.add-margin {
+	margin-left: 20px;
+}
+
+.track-chair-item {
+	width: 50%;
+	height: 50%;
+}
+
+.row-add-margin {
+	margin: 4px 0;
+}
+
+
+.blue-href:link {
+
+	color:#0055ff;   
+	text-decoration:underline;
+
+}
+
+.track-chair {
+	color:#404041;
+	font-weight: 100;
+	font-family:"arial";
+	margin-bottom: 5px;
+}
+
+.track-b {
+	color:#404041;
+	font-weight: bold;
+	font-family:"monospace";
+}
+
+.track-li {
+	font-family:"monospace";
+}
+
+.bottom-logos {
+	width: 100%;
+	background-color: rgba(255,255,255,.9);
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.bottom-logos-item {
+	width: 160px;
+
+}
+
+.dropdown:hover .dropdown-menu {
+display: block;
+}
+
+.dropdown-menu{
+/* 	color: #fff;
+	background-color: rgba(0,0,0,.9); */
+    margin-top:0
+}
+
+@media (max-width: 767px) {
+	.desktop-only{
+    display: none !important;
+  }
+}
+
+@media (min-width: 767px) {
+	.mobile-only{
+    display: none !important;
+  }
+}
+
+.mobile-only > li > a{
+	background-color: rgba(17, 17, 17, 0.8);
+}
+
+/* set the active state for Committees dropdown */
+li.active.dropdown > a.dropdown-toggle {
+  color: #333;
+  background-color: #fff;
+  border-color: #ccc;
+}
+
+/* set the hover state for Committees dropdown */
+li.dropdown:hover > a.dropdown-toggle {
+  color: #333;
+  background-color: #fff;
+  border-color: #ccc;
+}
+
+/* set the background color for the Committees dropdown menu */
+.dropdown-menu {
+  background-color: #000000;
+}
+
+/* set the text color for the Committees dropdown menu */
+.dropdown-menu > li > a {
+  color: #fff;
+}
+
+/* set the hover state for the Committees dropdown menu */
+.dropdown-menu > li > a:hover {
+  color: #333;
+  background-color: #fff;
+}
+
+@media (max-width:767px){
+  .dropdown-menu{
+    font-size: 14px;
+  }
+  
+  .set-background {
+    background-color: rgba(0,0,0,.8);
+  }
+  .program-table-item{
+  	font-size: 13px !important;
+  }
+  .begin-speak {
+  	font-size: 15px !important;
+  }
+  .program-table-head {
+	font-size: 14px !important;
+  }
+  .program-head {
+	font-size: 19px !important;
+  }
+}
+
+@media (min-width: 992px) {
+  .dropdown-menu{
+    font-size: 18px;
+  }
+  
+  .set-background {
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .dropdown-menu{
+    font-size: 22px;
+  }
+  
+  .set-background {
+    font-size: 22px;
+  }
+}
+
+
+.set-background {
+	color: #fff;
+	font-size: 18px;
+	text-align: center;
+	font-weight: 400;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+	position: relative;
+	display: block;
+	padding: 10px 0;
+}
+
+.program-table-head {
+	text-align:center;
+	font-size:20px;
+	font-weight:600;
+}
+
+.program-table-item {
+	text-align:center;
+	margin-bottom:20px;
+	font-size:18px;
+	font-weight:300;
+	line-height:1.4;
+}
+
+.program-table-item > td {
+	vertical-align: middle !important;
+}
+
+.program-table-item > td {
+	vertical-align: middle !important;
+}
+
+.begin-speak {
+	font-size: 19px;
+	color: #a9a9a9;
+}

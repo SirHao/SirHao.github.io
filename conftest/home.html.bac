@@ -73,7 +73,7 @@
               <li><a href="./program.html" class="jump-page">Program</a></li>
               <li><a href="./keynote.html" class="jump-page">Keynote</a></li>
               <li><a href="./registration.html" class="jump-page">Registration</a></li>
-              <li><a href="./p_guide.html" class="jump-page">Venue/Hotel</a></li>
+              <!-- <li><a href="venue.html" class="jump-page">Venue</a></li> -->
             </ul>
           </div>
         </div>
@@ -108,7 +108,7 @@
               <tbody>
                 <tr class="lead">
                   <td>Paper Submission Due</td>
-                  <td><del>30 May 2023</del> 15 June 2023 </td>
+                  <td>30 May 2023 </td>
                 </tr>
                 <tr class="lead">
                   <td>Author Notification</td>

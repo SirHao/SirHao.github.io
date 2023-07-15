@@ -74,9 +74,9 @@ body {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1100px) {
   .site-container {
-    width: 1200px;
+    width: 1100px;
   }
 }
 
@@ -490,6 +490,10 @@ body {
   margin-bottom: 10px;
 }
 
+.paragraph {
+  text-align: justify;
+}
+
 .scol > .img-speaker {
   opacity: 0.9;
   filter: alpha(opacity=90);
@@ -635,9 +639,9 @@ body {
 }
 
 .img-sponsor {
-  background-color: #ffffff;
+  /* background-color: #ffffff;
   opacity: 0.9;
-  filter: alpha(opacity=90);
+  filter: alpha(opacity=90); */
   max-width: 100%;
   width:100%;
 }
